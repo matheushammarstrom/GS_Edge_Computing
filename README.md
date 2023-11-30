@@ -51,9 +51,10 @@ Este projeto foi simulado usando o simulador Tinkercad, permitindo testar e veri
 
 ## Diagrama de Circuito
 
-![Diagrama de Circuito](link_para_sua_imagem_do_diagrama_de_circuito)
+![Diagrama de Circuito](https://github.com/matheushammarstrom/GS_Edge_Computing/blob/main/circuit.png?raw=true)
 
 ## Explicação em Vídeo
+
 
 Para uma explicação detalhada do projeto e suas funcionalidades, consulte [este vídeo](link_para_sua_explicação_em_vídeo).
 
