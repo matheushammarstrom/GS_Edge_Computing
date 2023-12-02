@@ -56,7 +56,7 @@ Este projeto foi simulado usando o simulador Tinkercad, permitindo testar e veri
 ## Explicação em Vídeo
 
 
-Para uma explicação detalhada do projeto e suas funcionalidades, consulte [este vídeo](link_para_sua_explicação_em_vídeo).
+Para uma explicação detalhada do projeto e suas funcionalidades, consulte [este vídeo](https://youtu.be/NSfjdGyrtc4).
 
 ---
 
