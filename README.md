@@ -36,7 +36,7 @@ O Sistema de Monitoramento de Frequência Cardíaca e Ambiente é projetado para
 
 1. Conecte os componentes de acordo com o diagrama de circuito fornecido na seção [Diagrama de Circuito](#diagrama-de-circuito).
 2. Instale as bibliotecas necessárias no Arduino IDE, especialmente a biblioteca LiquidCrystal.
-3. Carregue o código fornecido (`heart_rate_environment_monitor.ino`) na placa Arduino.
+3. Carregue o [código fornecido](https://github.com/matheushammarstrom/GS_Edge_Computing/blob/main/main.c) na placa Arduino.
 
 ## Uso
 
